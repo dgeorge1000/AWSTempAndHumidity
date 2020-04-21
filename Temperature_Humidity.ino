@@ -17,7 +17,7 @@
           Link for aws-iot-device-sdk-embedded-C is given above.
         3)DHT-sensor-library is used for reading data from DHT11
           
-          All the Links are given above.
+         All the Links are given above.
  */
 
 #include<WiFi.h>
